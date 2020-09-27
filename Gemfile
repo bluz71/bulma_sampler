@@ -4,7 +4,7 @@ ruby "2.6.6"
 
 gem "rails", "~> 6.0", ">= 6.0.3.3"
 gem "sqlite3", "~> 1.4"
-gem "puma", "~> 4.1"
+gem "puma", "~> 4.3"
 gem "sass-rails", ">= 6"
 gem "webpacker", "~> 5.2", ">= 5.2.1"
 gem "turbolinks", "~> 5"
